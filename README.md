@@ -1,2 +1,6 @@
-# rocket_acl
-Rocket Laravel ACL
+<p align="center">
+	Rocket Laravel ACL
+</p>
+
+## About Laravel
+Simple ACL using user interface
